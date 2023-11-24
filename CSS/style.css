@@ -440,9 +440,10 @@ nav>a:hover {
 }
 
 #message {
-    font-family: 30.5px;
+    font-size: 19px;
     padding-bottom: 10px;
     border-radius: 20px;
+    padding: 10px;
 }
 
 #botao {
@@ -979,9 +980,10 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
         border-radius: 20px;
+        padding: 10px;
     }
 
     #botao {
@@ -1534,9 +1536,11 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 20px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
+
     }
 
     #botao {
@@ -2084,8 +2088,9 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -2940,8 +2945,9 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -3481,8 +3487,9 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -4021,8 +4028,9 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -4556,7 +4564,7 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
         border-radius: 20px;
     }
@@ -5097,8 +5105,9 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -5647,8 +5656,9 @@ label {
     }
 
     #message {
-        font-family: 40.5px;
+        font-size: 19px;
         padding-bottom: 10px;
+        padding: 10px;
         border-radius: 20px;
     }
 
@@ -6205,11 +6215,10 @@ label {
     }
 
     #message {
-        font-family: 30px;
-
+        font-size: 15px;
         border-radius: 5px;
-        width: 100%;
-        padding: 0;
+        padding: 10px;
+        
 
     }
 
@@ -6756,11 +6765,10 @@ label {
     }
 
     #message {
-        font-family: 30.5px;
-        padding-bottom: 10px;
-        border-radius: 10px;
-        width: 100%;
-        padding: 0;
+        font-size: 15px;
+        border-radius: 5px;
+       
+        padding: 10px;
     }
 
     #botao {
@@ -7320,15 +7328,14 @@ label {
     }
 
     #message {
-        font-size: 20px;
-        padding-bottom: 0px;
-        border-radius: 10px;
+        font-size: 15px;
+        border-radius: 5px;
         width: 100%;
-        padding: 20;
+        padding: 0px;
     }
 
     #botao {
-        font-size: 20px;
+        font-size: 10px;
         width: 100%;
         border-radius: 5px;
 
